@@ -1,0 +1,14 @@
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Systemtime\bin\Debug\net9.0\Systemtime.exe
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Systemtime\bin\Debug\net9.0\Systemtime.deps.json
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Systemtime\bin\Debug\net9.0\Systemtime.runtimeconfig.json
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Systemtime\bin\Debug\net9.0\Systemtime.dll
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Systemtime\bin\Debug\net9.0\Systemtime.pdb
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Systemtime\obj\Debug\net9.0\Systemtime.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Systemtime\obj\Debug\net9.0\Systemtime.AssemblyInfoInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Systemtime\obj\Debug\net9.0\Systemtime.AssemblyInfo.cs
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Systemtime\obj\Debug\net9.0\Systemtime.csproj.CoreCompileInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Systemtime\obj\Debug\net9.0\Systemtime.dll
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Systemtime\obj\Debug\net9.0\refint\Systemtime.dll
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Systemtime\obj\Debug\net9.0\Systemtime.pdb
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Systemtime\obj\Debug\net9.0\Systemtime.genruntimeconfig.cache
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Systemtime\obj\Debug\net9.0\ref\Systemtime.dll
